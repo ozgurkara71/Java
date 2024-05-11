@@ -1,1 +1,1 @@
-Java Student Course Select Automation
+Java Student Course Automation
